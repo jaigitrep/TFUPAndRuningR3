@@ -1,2 +1,2 @@
-# TFUPAndRuningR3
-Terraform Up and Running 3
+# Terraform Up and Running
+This is Terraform Up and Running Practice
